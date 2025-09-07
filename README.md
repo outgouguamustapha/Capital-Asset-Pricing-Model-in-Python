@@ -292,9 +292,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Author**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Author**: [OUTGOUGUA MUSTAPHA]
+- **Email**: mustaphaoutgougua@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mustapha-outgougua/)
 - **Project Link**: [https://github.com/yourusername/Capital-Asset-Pricing-Model-in-Python](https://github.com/yourusername/Capital-Asset-Pricing-Model-in-Python)
 
 ---
