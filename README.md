@@ -294,8 +294,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: [OUTGOUGUA MUSTAPHA]
 - **Email**: mustaphaoutgougua@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mustapha-outgougua/)
-- **Project Link**: [https://github.com/yourusername/Capital-Asset-Pricing-Model-in-Python](https://github.com/yourusername/Capital-Asset-Pricing-Model-in-Python)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mustapha-outgougua/)
+- **Project Link**: [https://github.com/outgouguamustapha/Capital-Asset-Pricing-Model-in-Python](https://github.com/outgouguamustapha/Capital-Asset-Pricing-Model-in-Python)
 
 ---
 
