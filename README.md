@@ -200,16 +200,8 @@ tickers = ['MSFT', '^GSPC']  # For Microsoft Corp.
 Capital-Asset-Pricing-Model-in-Python/
 │
 ├── CAPM.ipynb              # Main analysis notebook
-├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
-├── data/                   # Data directory (auto-created)
-│   └── stock_data.csv     # Downloaded stock data
-├── results/                # Output directory
-│   └── analysis_report.pdf # Generated analysis report
-└── utils/                  # Utility functions
-    ├── __init__.py
-    ├── data_fetcher.py    # Data downloading functions
-    └── capm_calculator.py # CAPM calculation functions
+└── README.md               # Project documentation
 ```
 
 ---
